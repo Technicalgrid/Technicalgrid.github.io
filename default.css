@@ -1,0 +1,49 @@
+html {
+    /* Sets the font family for all HTML elements to 'Inter' */
+    font-family: 'Inter', sans-serif;
+
+    /* Sets the background color for the page */
+    background-color: #feeee3;
+
+    /* Adds a 10 pixel border around the entire HTML element with a light blue color */
+    border: 10px solid #e3eafe;
+}
+
+body {
+    /* Sets the font size for all elements inside the body to 25 pixels */
+    font-size: 25px;
+
+    /* Sets the background color for the page */
+    background-color: #feeee3;
+
+    /* Centers the body element horizontally by setting the left and right margins to 'auto' */
+    margin: 0 auto;
+
+    /* Adds a 20 pixel padding to the top, right, bottom, and left of the body element */
+    padding: 20px 20px 20px 20px;
+
+    /* Adds a 5 pixel white border around the body element */
+    border: 5px solid white;
+}
+
+h1 {
+    /* Adds a text shadow to all h1 elements, which creates a subtle drop shadow effect */
+    text-shadow: 3px 3px 1px black;
+
+    /* Sets the text color for h1 elements to a dark blue */
+    color: #2c2f83;
+}
+
+nav {
+    /* Centers the nav element horizontally by setting the left and right margins to 'auto' */
+    margin: 0 auto;
+
+    /* Adds a 20 pixel padding to the top, right, bottom, and left of the nav element */
+    padding: 20px 20px 20px 20px;
+}
+
+a {
+    /* Removes the underline from all links */
+    text-decoration: none;
+}
+
